@@ -1,0 +1,22 @@
+label,
+input {
+  display: block;
+  width: 21%;
+  margin-bottom: 5px;
+  border-radius: 4px;
+}
+body {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+button {
+  font-size: 20px;
+  margin-top: 10px;
+  border: 1px solid lightgray;
+  width: 5%;
+  background-color: lightblue;
+  cursor: pointer;
+}
+#answer {
+  font-weight: bold;
+}
